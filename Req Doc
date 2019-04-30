@@ -1,0 +1,162 @@
+ 
+Polar Quest
+Nasa Challenge Game on Arctic Exploration
+Version 0.1 
+
+
+
+
+
+
+
+
+
+
+Mário Bernardo de Barros Gomes
+
+
+ 
+
+02/04/2019Revision History
+
+
+Name
+Date
+Reason For Changes
+Version
+Mario Bernardo
+31/03/19
+Template Creation
+0.1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Table of Content
+
+TABLE OF CONTENT    3
+1.    PROJECT OVERVIEW    3
+1.1.    Project scope    4
+1.2.    Major software functions    4
+1.2.1    Setup    5
+1.2.2    Evaluation    5
+1.2.3    Reporting    5
+1.3.    Deliverables    5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Project Overview 
+Polar Quest at the mountains of madness is an exploration, survival game inspired on the Nasa Challenge Polar Quest. The goal of the game is to present real world data collected by Nasa satellites and landmarks of the Arctic geology and its changing environment for the exploration and entertainment of the end user. With this getting the general public to be more understanding and knowledgeable of the situation in the Arctic and the challenges of our prided scientists.
+
+The game will make use of NASA’s GIBS(Global Imagery Browser Services) to present the maps of the regions to be explored and researched across the time span the player survives through. There will be some focus on the interaction between the player’s equipment, status and the environment in order to generate events for a more interesting gameplay, but information on landmarks and interest points(like research bases) is the main focus.
+
+     Another point of interest in the development is, the presentation of the changes in the Arctic environment and what challenges scientists face to keep track of research for more information on the past of life, while presenting Lovecraftian Eldritch horrors as antagonists and allegories for the vital necessity of understanding all those aspects of our past in order to navigate towards  a future that avoids as many catastrophes as possible.
+
+The project is developed by a single man team and will use the Scrum method to keep track of priorities and implement in iterations the gameplay and interactive educational points of interest.
+Project scope
+The Scope of Polar Quest is the presentation of the changes in the Arctic environment, both natural and of probable human cause, and the research efforts made by scientists. The landmarks and exploration will be from and in Greenland, while the planning and purchase of supplies are made in a port in Iceland. 
+
+Major software functions
+In this first version, it is planned to use web and javascript frameworks as the means of user interaction and engine. The data on GIBS can be more easily manipulated to a user friendly state with available web frameworks and the cross-platform capability is a huge boom in player reach for the final game product.
+
+Deliverables
+A more detailed list of features shall later be produced as the team gets used to the pace and usual time cost of building the blocks that constitute the core structure of the game. 
+
+Sprint 1
+?
+Sprint 2
+?
+Sprint 3
+Sprint 4
+Working web interactive map from GIBS API.
+
+
+
+First steps on how to make the engine understand the land the player will go through.
+Introduction of landmarks, points of interest and educational information and links for more information.
+Player equipment, travel and exploration systems, game goals and field research.
+More gameplay elements and interaction with the landmarks. Like the presence of the antagonists and a player progress bar that shows how they have contributed to the long term survival of life (decreasing the influence of the Horrors). 
+
+
+
+
+Also, with every iteration of a Sprint the following will be made available for the evaluation of the overall progress of the project.
+Deliverable
+Description
+Source Code
+Source code required to build an executable product will be provided.
+Product Backlog
+Non- and essential items on the backlog that are still necessary for an engaging experience are in the backlog, and will be developed and implemented as the progress is made clear and their addition no longer a slowdown on the insertion of more important features. the backlog is on the scrum.
+
